@@ -1,0 +1,35 @@
+{
+     "objective": "To get involved in a company whose work aligns with my interests, allowing me to showcase my skills, improve learn and grow to provide me with a second technical career with a perfect work-life balance.",     
+     "skills": {
+       "Front_end": "HTML, CSS, BOOTSTRAP",
+       "Other": "Javascript, C, CPP, JAVA, Python",
+      "Operating System": "Linux, Microsoft Windows",
+      "Backend": "PHP, Mysql"
+     },
+     "Experience": {
+      "id1": "Campus Ambassador",
+      "id2": "One year experience as a campus ambassador for geeksforgeeks",
+      "id3": "Experience helped me in building prototype projects at faster pace.",
+      "id4": "Learnt to help students with Hackathons and Encourage Meetups."
+     },
+     "Education": {
+     "btech": "CMR College of Engineering and Technology, Kandlakoya, Hyderabad.",
+     "Intermediate": "SR Junior College, Uppal, Hyderabad.",
+     "school": "Alphores school of Gen Next, Gopalraopet, Karimnagar."
+     },
+     "Trainings": {
+      "t1": "Attended C & DS workshop conducted by CODENOW.",
+      "t2": "Attended NATIONAL LEVEL INNOVATION SUMMIT organized by Advanced Training Institute."
+     },
+     "Achievements": {
+       "a1": "Won Gold Medal in all India level essay writing competition.",
+       "a2": "Ranked 2nd Position in District level Painting competition."
+     },
+    "personaldetails": {
+      "dob": "16-May-2000",
+      "age": "19",
+      "lp": "English, Telugu and Hindi",
+      "strengths": "Keen learner",
+      "hobbies": "Listening music, Painting." 
+   }
+}
